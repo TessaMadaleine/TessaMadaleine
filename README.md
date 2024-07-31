@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @TessaMadaleine
 - 🧠I’m interested in Neuroscience 
-- 🌱 I’m currently learning Python & R
-- 🔮 I’m looking to collaborate on psycholocial experiments & fMRI data analysis
+- 🌱 I’m currently learning Python, R & linux
+- 🔮 I’m looking to collaborate on experimental psychology & fMRI data analysis
 - 🥰 Pronouns: She/Her
-- 🌯 Fun fact: always hungry 
+- 🌯 Fun fact: sleep deprived 
 
 <!---
 TessaMadaleine/TessaMadaleine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
