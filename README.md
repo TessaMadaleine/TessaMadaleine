@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TessaMadaleine
 - 🧠I’m interested in Neuroscience 
-- 🌱 I’m currently learning Python, R & linux
-- 🔮 I’m looking to collaborate on experimental psychology & fMRI data analysis
+- 🌱 I’m currently learning Python and Matlab
+- 🔮 I’m working on and infant and Neonatal EEG preprocessing pipeline
 - 🥰 Pronouns: She/Her
 - 🌯 Fun fact: sleep deprived 
 
